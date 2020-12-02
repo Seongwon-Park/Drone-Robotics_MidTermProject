@@ -27,9 +27,8 @@ Gachon University 2020 Fall semester
 * Introduction: [Video1](https://drive.google.com/file/d/1zLqF6_0hI2s59hDbz6tWlQigPG6EHMkm/view?usp=sharing)
 * Execution: [Video2](https://drive.google.com/file/d/1a-xqVrOwDMxeBTodeVB-DQSqwjxVYNr6/view?usp=sharing)
 
-# Result Image
-<div>
+# Result Image (Examples)
 ![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg)
 ![ScreenShot](Half_Mode/Half_Mode_img_5.jpg)
 ![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
-</div>
+

@@ -28,9 +28,6 @@ Gachon University 2020 Fall semester
 * Execution: [Video2](https://drive.google.com/file/d/1a-xqVrOwDMxeBTodeVB-DQSqwjxVYNr6/view?usp=sharing)
 
 # Result Image
-<div>
-<img width="200" src "https://user-images.githubusercontent.com/48320176/100919277-edce2a80-351c-11eb-9ec0-bd1ae633fec3.jpg">
-<img width="200" src "https://user-images.githubusercontent.com/48320176/100919289-f292de80-351c-11eb-869e-f639729ed70c.jpg">
-<img width="200" src "https://user-images.githubusercontent.com/48320176/100919303-f6266580-351c-11eb-91ef-458bfdc554fe.jpg">
-</div>
-
+![ScreenShot](Selfi_Mode_img_5.jpg)
+![ScreenShot](Half_Mode_img_5.jpg)
+![ScreenShot](Full_Mode_img_5.jpg)

@@ -7,6 +7,9 @@ Gachon University 2020 Fall semester
 * Task : Take a selfi through the Smart Drone
 
 # Mode
+* Selfi Mode
+* Half Mode
+* Full Mode
 
 # Demo video (2020/11/06 Fri.)
 * Introduction: [Video1](https://drive.google.com/file/d/1zLqF6_0hI2s59hDbz6tWlQigPG6EHMkm/view?usp=sharing)

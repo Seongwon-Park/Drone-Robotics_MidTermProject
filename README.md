@@ -28,12 +28,14 @@ Gachon University 2020 Fall semester
 * Execution: [Video2](https://drive.google.com/file/d/1a-xqVrOwDMxeBTodeVB-DQSqwjxVYNr6/view?usp=sharing)
 
 # Result Image
+<div>
 * Selfi Mode
-![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg)
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/Selfi_Mode/Selfi_Mode_img_5.jpg">
 
 * Half Mode
-![ScreenShot](Half_Mode/Half_Mode_img_5.jpg)
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/Half_Mode/Half_Mode_img_5.jpg">
 
 * Full Mode
-![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/Full_Mode/Full_Mode_img_5.jpg">
+</div>
 

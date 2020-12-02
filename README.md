@@ -6,10 +6,6 @@ Gachon University 2020 Fall semester
 * Member : Park Seong Won
 * Task : Take a selfi through the Smart Drone
 
-# Environment
-* OS: Windows 10
-* Drone Model: Tello EDU
-
 # Algorithm
 1. Receive mode input from user's keyboard
 2. Recognize the Face
@@ -37,4 +33,6 @@ Gachon University 2020 Fall semester
 * Full Mode
 ![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
 
-
+# Environment
+* OS: Windows 10
+* Drone Model: Tello EDU

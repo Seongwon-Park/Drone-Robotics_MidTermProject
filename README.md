@@ -7,7 +7,7 @@ Gachon University 2020 Fall semester
 * Task : Take a selfi through the Smart Drone
 
 # Algorithm
-1. Receive mode input from user through keyboard
+1. Receive mode input from user's keyboard
 2. Recognize the Face
 3. The drone's position is adjusted until it reaches the face area that matches the input mode.
 4. When the face area reaches the specified value, pictures are taken 5 times at 1 second intervals.

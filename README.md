@@ -29,7 +29,7 @@ Gachon University 2020 Fall semester
 
 # Result Image
 <div>
-<img width="200" src "https://drive.google.com/file/d/1K7oL1YcajGPlD9gR9QFl88__zIjxghbf/view?usp=sharing">
-<img width="200" src "https://drive.google.com/file/d/1L7Z3yWon8yy8ootyg1yYbqhIbBzyTp3E/view?usp=sharing">
-<img width="200" src "https://drive.google.com/file/d/1BDvRbwhu-rRYbNDVUR4Ye6WN4Gtk2IZd/view?usp=sharing">
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/blob/main/Selfi_Mode/Selfi_Mode_img_5.jpg">
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/blob/main/Half_Mode/Half_Mode_img_5.jpg">
+<img width="200" src "https://github.com/Seongwon-Park/Drone-Robotics_MidTermProject/blob/main/Full_Mode/Full_Mode_img_5.jpg">
 </div>

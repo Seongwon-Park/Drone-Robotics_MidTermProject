@@ -29,7 +29,7 @@ Gachon University 2020 Fall semester
 
 # Result Image
 * Selfi Mode
-![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg&s=200)
+![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg &s=200)
 
 * Half Mode
 ![ScreenShot](Half_Mode/Half_Mode_img_5.jpg)

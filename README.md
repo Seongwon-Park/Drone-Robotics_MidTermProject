@@ -34,5 +34,5 @@ Gachon University 2020 Fall semester
 ![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
 
 # Environment
-* OS: Windows 10
+* OS: Windows 10 (Boot Camp)
 * Drone Model: Tello EDU

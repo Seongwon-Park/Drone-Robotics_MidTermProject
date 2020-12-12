@@ -36,3 +36,7 @@ Gachon University 2020 Fall semester
 # Environment
 * OS: Windows 10 (Boot Camp)
 * Drone Model: Tello EDU
+
+# Problem Solving
+* I need to recognize the body in full mode, but it was not well recognized unlike the face. 
+  -> Instead, I took a picture by bypassing the method of taking a picture by recognizing a small face.

@@ -20,11 +20,11 @@ Gachon University 2020 Fall semester
 * Full Mode
 
 # Proposal Presentation
-* Selfie Rone Proposal: [PPTX](https://drive.google.com/file/d/1SmKBYX_LeN28cn0YOfvayCcQzonjKj5m/view?usp=sharing)
+* Selfie Rone Proposal: [[PPTX](https://drive.google.com/file/d/1SmKBYX_LeN28cn0YOfvayCcQzonjKj5m/view?usp=sharing)]
 
 # Demo video (2020/11/06 Fri.)
-* Introduction: [Video1](https://drive.google.com/file/d/1uPZNUORh5YrPnLT0MgBV4J3P_IPJl68n/view?usp=sharing)
-* Execution: [Video2](https://drive.google.com/file/d/1x7Fmtb-u_2XtLRN8AWnngtexW7QYhhUR/view?usp=sharing)
+* Introduction: [[Video1](https://drive.google.com/file/d/1uPZNUORh5YrPnLT0MgBV4J3P_IPJl68n/view?usp=sharing)]
+* Execution: [[Video2](https://drive.google.com/file/d/1x7Fmtb-u_2XtLRN8AWnngtexW7QYhhUR/view?usp=sharing)]
 
 # Result Image
 * Selfi Mode

@@ -19,6 +19,9 @@ Gachon University 2020 Fall semester
 * Half Mode
 * Full Mode
 
+# Proposal Presentation
+* Selfie Rone Proposal: [PPTX](https://drive.google.com/file/d/1SmKBYX_LeN28cn0YOfvayCcQzonjKj5m/view?usp=sharing)
+
 # Demo video (2020/11/06 Fri.)
 * Introduction: [Video1](https://drive.google.com/file/d/1uPZNUORh5YrPnLT0MgBV4J3P_IPJl68n/view?usp=sharing)
 * Execution: [Video2](https://drive.google.com/file/d/1x7Fmtb-u_2XtLRN8AWnngtexW7QYhhUR/view?usp=sharing)
@@ -39,4 +42,5 @@ Gachon University 2020 Fall semester
 
 # Problem Solving
 * I need to recognize the body in full mode, but it was not well recognized unlike the face. 
+  
   -> Instead, I took a picture by bypassing the method of taking a picture by recognizing a small face.
